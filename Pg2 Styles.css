@@ -1,0 +1,27 @@
+body {
+    background-image:  url("PISSBABY.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    icon: url("CSMozz tab.JPG")
+}
+.HEADINGS {
+    color:goldenrod; font-family: 'Audiowide', cursive;
+}
+#Scratch:hover {
+    color:white;
+}
+h1 {
+    text-shadow: 3px 3px 5px black;
+}
+h2 {
+    text-shadow: 3px 3px 5px black;
+} 
+h3{
+    text-shadow: 3px 3px 5px black;
+}
+div.a {
+    text-align: center;
+}
+div.b {
+    align-items: center;
+}
